@@ -2,7 +2,10 @@
 
 GeoGenius is an end-to-end AI Location Intelligence System that recommends the best places in India to open a coffee shop.
 It combines RAG (Retrieval-Augmented Generation), document embeddings, scoring algorithms, and LLM-based business reasoning to simulate real-world commercial site-selection workflows used by major retail brands
+
+
 🚀 Features
+
 ✅ 1. Multi-City Dataset (17 Locations Across India)
 
 Includes commercial hotspots from:
